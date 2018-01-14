@@ -17,5 +17,4 @@ public class PokeGatyaTest {
         gatya.choice(2,ssr);
         assertEquals(gatya.monster,"サンダー");
     }
-
 }
